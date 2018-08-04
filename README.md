@@ -12,3 +12,11 @@
   <li> JSoN and REST Architecture: Worked with Application Program Interfaces / Web Services using JSON data format. : Extracted Data using <b>GeoJSON </b> API. </li>
   
   </ul>
+  
+  <p> 2. <b> Using Databases With Python: </b> Under this course, I worked on designing databases for storing data as part of a multi-step data gathering, analysis abd processing effort. </p> 
+  <ul>
+  <li>I used use Structural Query Languages (SQLite3) as its database. </li>
+  <li>I <b>built web crawlers and multi-step data gathering and performed visualization using D3.js </b>library. </li>
+  <li> Project: Gathered and Processes Data and then used the <b> Google Maps API</b> to visualize the data. </li>
+  </ul>
+  </p>
